@@ -1,0 +1,7 @@
+./src/*.json
+./src/*.dll
+./src/*.pdb
+./src/*.cs
+./src/*.csproj
+./src/obj/
+./src/bin/
