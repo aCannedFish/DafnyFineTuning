@@ -41,8 +41,6 @@ pip install --upgrade pip
 dafny --version
 ```
 
----
-
 ### scripts/extract_and_append.py
 
 **用途：**
